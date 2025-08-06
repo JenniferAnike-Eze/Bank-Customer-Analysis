@@ -1,0 +1,12 @@
+# Ignore raw and cleaned datasets
+Bank_Churn_Messy.xlsx
+Cleaned_Bank_Churn_Data.xlsx
+Bank_Churn_Data_Dictionary.csv
+
+# Ignore all Excel and CSV files just in case
+*.xlsx
+*.csv
+.ipynb_checkpoints/
+*pptx
+
+
